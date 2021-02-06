@@ -1,7 +1,7 @@
 # gitignore
 
 A python script for creating .gitignore files more easily. It is a convenience wrapper around the api for 
-gitignore.io.
+https://gitignore.io.
 
 ## Installation
 
